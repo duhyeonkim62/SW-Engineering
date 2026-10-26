@@ -44,7 +44,7 @@
 
 - 소프트웨어의 기능적 규모를 측정하는 기능 점수(Function Point, FP) 기법을 기반으로 산정합니다. 외부 API가 없으므로 내부 논리 파일(ILF)과 트랜잭션 중심(EI, EO, EQ)으로 규모를 산출.
     
-    ![image.png](image.png)
+    ![image.png](images/image.png)
     
 
 ## 6단계: 주요 업무 구분 후 WBS와 연계
